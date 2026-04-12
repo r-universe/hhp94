@@ -1,0 +1,10 @@
+{
+  "id": 123260707,
+  "created_at": "2026-04-12T01:01:57.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["slideimp.extra", "hhp94.r-universe.dev"]
+}
