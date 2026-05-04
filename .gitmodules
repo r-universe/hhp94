@@ -2,3 +2,6 @@
 	path = .registry
 	url = https://github.com/hhp94/hhp94.r-universe.dev
 	branch = HEAD
+[submodule "slideimp.extra"]
+	path = slideimp.extra
+	url = https://github.com/hhp94/slideimp.extra
